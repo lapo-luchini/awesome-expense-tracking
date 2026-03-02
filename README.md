@@ -10,4 +10,4 @@ Can manage groups/projects/trips | ✅ | ✅ | ✅
 Can manage debts with same person in multiple groups | ✅ | [no](https://github.com/spliit-app/spliit/issues/76) | no
 A payment can have multiple payers | ✅ | [no](https://github.com/spliit-app/spliit/pull/146) | ?
 Can manage uneven splits (e.g. quotas, adjustments) | ✅ | ? | [yes](https://tricount.com/en-us/expense-tracker-use-cases/restaurant-bills)
-Can manage multiple currencies | [paying](https://www.splitwise.com/pro) | ? | [yes](https://tricount.com/en-us/expense-tracker-use-cases/holidays)
+Can manage multiple currencies | [💶](https://www.splitwise.com/pro) | ? | [yes](https://tricount.com/en-us/expense-tracker-use-cases/holidays)
